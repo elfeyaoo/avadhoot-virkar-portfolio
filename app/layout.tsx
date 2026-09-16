@@ -2,17 +2,17 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Avadhoot Virkar | Data Analyst • AI/ML • Data Engineering",
+  title: "Avadhoot Virkar | Data Analyst • BI Analyst • Data Analytics",
   description:
-    "Portfolio of Avadhoot Virkar — Data Analytics, Business Intelligence, AI/ML and Data Engineering.",
+    "Portfolio of Avadhoot Virkar — Data Analyst, BI Analyst and Data Analytics professional.",
   keywords: [
     "Avadhoot Virkar",
     "Data Analyst",
-    "AI ML",
-    "Data Engineering",
-    "Power BI",
+    "BI Analyst",
+    "Data Analytics",
     "Python",
-    "SQL"
+    "SQL",
+    "Power BI"
   ]
 };
 
