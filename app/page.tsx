@@ -4,6 +4,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import {
   ArrowDown,
+  ArrowUp,
   ArrowUpRight,
   BarChart3,
   BrainCircuit,
