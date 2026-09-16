@@ -1,0 +1,4 @@
+Replace this file with your actual resume PDF.
+
+Filename required:
+resume.pdf
